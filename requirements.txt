@@ -1,0 +1,7 @@
+torch
+diffusers
+transformers
+accelerate
+imageio
+imageio-ffmpeg
+torchvision
